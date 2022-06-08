@@ -1,0 +1,38 @@
+// gravity arduino turbidity sensor
+//水濁感測器
+1.我用的code* https://wiki.dfrobot.com/Turbidity_sensor_SKU__SEN0189
+
+
+//DS18B20 Arduino Temperature sensor
+//水溫感測器
+1.我用的code* https://wiki.dfrobot.com/Waterproof_DS18B20_Digital_Temperature_Sensor__SKU_DFR0198_
+2. http://yehnan.blogspot.com/2013/01/arduinods18b20.html
+
+//Digital_RGB_LED_SKU__FIT0401
+//RGB 三色 LED
+1. 
+https://wiki.dfrobot.com/Digital_RGB_LED_SKU__FIT0401
+2. 我用的code*
+https://cavedu.gitbook.io/linkit-7697/LinkIt-7697-ArduinoIDE/zhou-bian-yuan-jian-lian-jie-jiao-xue/rgb-san-se-led
+
+//[Arduino範例] ULN2003驅動板+28BYJ-48步進馬達
+1. 我用的code*
+https://blog.jmaker.com.tw/uln2003-28byj-48/
+
+
+
+//new*********
+//1.使用浊度传感器和Arduino开发板自制浊度计
+https://www.yiboard.com/thread-1745-1-1.html
+
+//2.Gravity: Analog Turbidity Sensor 光學濁度感測器模組 類比輸出 Arduino 專用液體濁度感測器
+https://www.taiwansensor.com.tw/product/gravity-analog-turbidity-sensor-%E5%85%89%E5%AD%B8%E6%BF%81%E5%BA%A6%E6%84%9F%E6%B8%AC%E5%99%A8%E6%A8%A1%E7%B5%84-%E9%A1%9E%E6%AF%94%E8%BC%B8%E5%87%BA-arduino-%E5%B0%88%E7%94%A8%E6%B6%B2%E9%AB%94/
+
+//seeed studio
+Turbidity-Sensor: 
+	https://wiki.seeedstudio.com/Grove-Turbidity-Sensor-Meter-for-Arduino-V1.0/
+
+Relay: 
+	https://wiki.seeedstudio.com/Grove-Relay/
+Ultrasonic_Ranger: 
+	https://wiki.seeedstudio.com/Grove-Ultrasonic_Ranger/
